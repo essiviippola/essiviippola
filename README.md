@@ -6,7 +6,8 @@
 - 💫 I'm currently working on
   - Exploring the environmental component of sex-specific risk in human disease
   - Data preprocessing for FinRegistry ([repo](https://github.com/dsgelab/finregistry-data))
-  - Contributing to [MathCAT](https://nsoiffer.github.io/MathCAT/) (Math Capable Assistive Technology) by translating mathematical symbols into Finnish, enhancing accessibility for screen reader users ([repo](https://github.com/samimaattaCelia/MathCAT-fi))
 - 🙌 I'm proud to have worked on
   - High-throughput epidemiological analyses for [Risteys](https://risteys.finregistry.fi/) ([repo](https://github.com/dsgelab/risteys))
   - Nationwide registry-based data resource [FinRegistry](https://www.finregistry.fi/) ([publication](https://academic.oup.com/ije/article/52/4/e195/7208038))
+  - Contributing to [MathCAT](https://nsoiffer.github.io/MathCAT/) (Math Capable Assistive Technology) by translating mathematical symbols into Finnish, enhancing accessibility for screen reader users ([repo](https://github.com/samimaattaCelia/MathCAT-fi))
+
