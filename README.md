@@ -4,7 +4,7 @@
 - 👀 I'm interested in interpretable machine learning, representation learning, and survival analysis
 - 👩‍💻 I enjoy coding with Python and R, and occasionally dabble with web development
 - 💫 I'm currently working on
-  - Exploring the environmental component of sex-specific risk in human disease
+  - Exploring the interplay between proteomics and genetic sex in disease risk
   - Data preprocessing for FinRegistry ([repo](https://github.com/dsgelab/finregistry-data))
 - 🙌 I'm proud to have worked on
   - High-throughput epidemiological analyses for [Risteys](https://risteys.finregistry.fi/) ([repo](https://github.com/dsgelab/risteys))
